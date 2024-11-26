@@ -8,7 +8,7 @@ class Database:
     def __init__(self): 
         # Define connection parameters
         self.user = 'root'
-        self.password = '$gpMFuBJ3Q1#U6^V'
+        self.password = '********'
         self.host = 'localhost'
         self.database = 'bourse'
 
