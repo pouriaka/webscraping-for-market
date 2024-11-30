@@ -1,0 +1,1 @@
+This code opens the tsetmc.com site using the Selenium library and applies the desired filter on the site information through automatic clicking, and then scans the displayed information and stores it in the database. It then re-filters the stored information with a personalized filter.
